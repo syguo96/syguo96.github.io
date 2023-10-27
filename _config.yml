@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Siyuan Guo"
   avatar           : "profile.png"
-  bio              : "PhD student supervised by Prof. Bernhard Schölkopf and Dr. Ferenc Huszár."
-  location         : "United Kingdom and Germany"
+  bio              : "PhD student supervised by Ferenc Huszár and Bernhard Schölkopf"
+  location         : "Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GRGyzn4AAAAJ&hl=en"
